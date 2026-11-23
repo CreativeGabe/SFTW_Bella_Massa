@@ -1,0 +1,5 @@
+INFORMAÇÕES
+
+Somente esses 3 id's são funcionais dentro do software: 1001767, 6767676, 4242424;
+
+Apenas a primeira comanda apresenta funcionalidade de alterar o horário;
